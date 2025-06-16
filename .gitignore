@@ -1,0 +1,19 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+qscomp
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+*.suo
+*.user
